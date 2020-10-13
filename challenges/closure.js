@@ -17,7 +17,7 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-
+  //-While nestedFunction is nested inside myFunction, it can access any of the vairables inside the local scope that is created.
 
 /* Task 2: Counter */
 
